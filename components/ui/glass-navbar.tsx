@@ -68,10 +68,10 @@ export function GlassNavbar() {
         {/* LOGO */}
         <div className="flex items-center space-x-2">
           <div className="w-8 h-8 bg-gradient-to-br from-[#00E500] to-black rounded-lg flex items-center justify-center text-black font-bold border border-[#00E500]/50 shadow-[0_0_10px_rgba(0,229,0,0.3)]">
-            S
+            I
           </div>
           <span className="text-lg font-bold tracking-tight text-white hidden sm:block">
-            SilkRoad
+            Invofast
           </span>
         </div>
 

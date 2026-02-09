@@ -375,7 +375,7 @@ const ComplianceModal = ({
           Verifying Civic Credentials
         </h3>
         <p className="text-gray-500 text-xs mb-6">
-          SilkRoad enforces <strong>ZK-Compliance</strong> via Civic identity
+          Invofast enforces <strong>ZK-Compliance</strong> via Civic identity
           verification.
         </p>
 
@@ -531,7 +531,7 @@ const FloatingFooter = () => (
               <Icons.logo className="h-4 w-4 text-[#00E500]" />
             </div>
             <span className="text-xl font-bold text-white tracking-tight">
-              SilkRoad
+              Invofast
             </span>
           </div>
           <p className="text-sm text-gray-500 leading-relaxed">
@@ -582,7 +582,7 @@ const FloatingFooter = () => (
               <Twitter className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com/Abhishek222983101/silkroad-finance-zk"
+              href="https://github.com/invofast/invofast"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-white/5 rounded-full hover:bg-[#00E500]/20 hover:text-[#00E500] transition-all cursor-pointer relative z-50"
@@ -1731,7 +1731,7 @@ export default function SilkRoadApp() {
                 World
               </>
             }
-            description="SilkRoad enables businesses to unlock capital trapped in unpaid invoices using the speed and security of the Solana blockchain."
+            description="Invofast enables businesses to unlock capital trapped in unpaid invoices using the speed and security of the Solana blockchain."
             mockupImage="/arch.png"
           />
           <BentoGrid />

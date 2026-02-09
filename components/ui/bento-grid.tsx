@@ -37,7 +37,7 @@ const itemsSample: BentoItem[] = [
 export function BentoGrid() {
   return (
     <div className="max-w-6xl mx-auto px-6 py-20">
-       <h2 className="text-4xl font-bold text-white text-center mb-12">Why SilkRoad?</h2>
+       <h2 className="text-4xl font-bold text-white text-center mb-12">Why Invofast?</h2>
        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {itemsSample.map((item, index) => (
             <div key={index} className={cn(

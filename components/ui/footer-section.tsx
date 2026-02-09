@@ -9,9 +9,9 @@ export function Footer() {
         <div className="col-span-1 md:col-span-1">
           <div className="flex items-center space-x-2 mb-4">
             <div className="w-6 h-6 bg-green-500 rounded flex items-center justify-center text-black font-bold text-xs">
-              S
+              I
             </div>
-            <span className="text-xl font-bold text-white">SilkRoad</span>
+            <span className="text-xl font-bold text-white">Invofast</span>
           </div>
           <p className="text-gray-500 text-sm">
             Empowering global trade with decentralized liquidity.
@@ -50,7 +50,7 @@ export function Footer() {
         </div>
       </div>
       <div className="text-center border-t border-white/5 pt-8 text-gray-600 text-xs">
-        © 2026 SilkRoad Finance. Built for Solana Privacy Hack.
+        © 2026 Invofast. Built for Solana Privacy Hack.
       </div>
     </footer>
   );

@@ -196,7 +196,7 @@ export default function AdminDashboard() {
                 Oracle Command Center
               </h1>
               <p className="text-[10px] text-gray-500 uppercase tracking-widest">
-                SilkRoad Finance // Admin Dashboard
+                Invofast // Admin Dashboard
               </p>
             </div>
           </div>
